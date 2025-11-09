@@ -1,51 +1,32 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ngoc Luong Minh 👋
 
 ## 🚀 About Me
-I'm a passionate developer who loves building innovative solutions and learning new technologies. I enjoy working on challenging projects and contributing to open-source communities.
+I'm an AI/ML developer based in Hanoi, Vietnam, passionate about Computer Vision and Deep Learning. I love building intelligent systems and exploring cutting-edge technologies in artificial intelligence. My focus is on creating practical AI solutions that solve real-world problems.
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technology/Skill]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on **Computer Vision and Deep Learning projects**
+- 🌱 I'm currently learning **advanced Deep Learning architectures and MLOps**
+- 👯 I'm looking to collaborate on **AI/ML and Computer Vision projects**
+- 💬 Ask me about **Python, PyTorch, Computer Vision, and Machine Learning**
+- 📫 How to reach me: **ngoclm004@gmail.com**
+- 📍 Location: **Hanoi, Vietnam**
+- ⚡ Fun fact: **I enjoy experimenting with state-of-the-art AI models**
 
 ## 🛠️ Technologies & Tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-HuggingFace-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Google_Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=2bbc8a)
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ng%E1%BB%8Dc-l%C6%B0%C6%A1ng-minh-a3b069170/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngoclm004@gmail.com)
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Ngoc-LM](https://github.com/Ngoc-LM)
