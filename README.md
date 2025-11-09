@@ -3,13 +3,9 @@
 ## 🚀 About Me
 I'm an AI/ML developer based in Hanoi, Vietnam, passionate about Computer Vision and Deep Learning. I love building intelligent systems and exploring cutting-edge technologies in artificial intelligence. My focus is on creating practical AI solutions that solve real-world problems.
 
-- 🔭 I'm currently working on **Computer Vision and Deep Learning projects**
-- 🌱 I'm currently learning **advanced Deep Learning architectures and MLOps**
-- 👯 I'm looking to collaborate on **AI/ML and Computer Vision projects**
-- 💬 Ask me about **Python, PyTorch, Computer Vision, and Machine Learning**
+- 🔭 I'm currently working and looking to collaborate on **Computer Vision and Deep Learning projects**
 - 📫 How to reach me: **ngoclm004@gmail.com**
 - 📍 Location: **Hanoi, Vietnam**
-- ⚡ Fun fact: **I enjoy experimenting with state-of-the-art AI models**
 
 ## 🛠️ Technologies & Tools
 
@@ -28,5 +24,3 @@ I'm an AI/ML developer based in Hanoi, Vietnam, passionate about Computer Vision
 ---
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
-
-⭐️ From [Ngoc-LM](https://github.com/Ngoc-LM)
