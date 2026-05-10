@@ -6,7 +6,6 @@ AI/ML researcher & developer based in Hanoi, Vietnam, focused on **Computer Visi
 
 -  Currently researching **medical image segmentation** (polyp detection, semi-supervised learning)
 -  Open to collaborating on **Computer Vision and Deep Learning projects**
--  **[ngoclm004@gmail.com](mailto:ngoclm004@gmail.com)**
 
 ---
 
