@@ -1,4 +1,4 @@
-# Hi there, I'm Ngọc Lương Minh 👋
+# Hi there, I'm Minh-Ngoc Luong 👋
 
 ## 🚀 About Me
 
